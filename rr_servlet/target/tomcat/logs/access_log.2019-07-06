@@ -1,0 +1,2 @@
+0:0:0:0:0:0:0:1 - - [06/Jul/2019:20:01:45 +0800] "GET /RequestDemo1 HTTP/1.1" 500 1430 http-bio-8080-exec-3 53
+0:0:0:0:0:0:0:1 - - [06/Jul/2019:20:02:05 +0800] "GET /ResponseDemo1 HTTP/1.1" 302 - http-bio-8080-exec-7 4
